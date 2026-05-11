@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "nombre": "Ana Pérez",
+    "telefono": "2615551234",
+    "email": "ana.perez@email.com",
+    "notas": "Prefiere turnos por la mañana"
+  },
+  {
+    "id": "2",
+    "nombre": "Carlos Gómez",
+    "telefono": "2615555678",
+    "email": "carlos.gomez@email.com",
+    "notas": "Cliente frecuente"
+  }
+]

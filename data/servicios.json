@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "nombre": "Consulta inicial",
+    "descripcion": "Primera reunión con el cliente",
+    "duracionMinutos": 30,
+    "precio": 8000
+  },
+  {
+    "id": "2",
+    "nombre": "Servicio estándar",
+    "descripcion": "Atención general con duración media",
+    "duracionMinutos": 45,
+    "precio": 12000
+  }
+]

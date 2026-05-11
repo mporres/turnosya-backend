@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "tipo": "bug",
+    "titulo": "Un turno cancelado sigue apareciendo como pendiente",
+    "descripcion": "Se detectó que al cancelar un turno, el listado no actualiza visualmente el estado.",
+    "prioridad": "alta",
+    "estado": "resuelto"
+  },
+  {
+    "id": "2",
+    "tipo": "consulta",
+    "titulo": "Duda sobre cómo crear un nuevo cliente",
+    "descripcion": "Un usuario consulta si debe crear primero el cliente antes de registrar un turno.",
+    "prioridad": "baja",
+    "estado": "cerrado"
+  },
+  {
+    "id": "3",
+    "tipo": "mejora",
+    "titulo": "Agregar filtro de turnos por fecha",
+    "descripcion": "Se solicita poder filtrar los turnos por día para encontrar más rápido la agenda.",
+    "prioridad": "media",
+    "estado": "abierto"
+  },
+  {
+    "id": "4",
+    "tipo": "bug",
+    "titulo": "No se valida el campo hora al crear un turno",
+    "descripcion": "El sistema permite crear turnos sin completar el horario.",
+    "prioridad": "alta",
+    "estado": "en_progreso"
+  },
+  {
+    "id": "5",
+    "tipo": "mejora",
+    "titulo": "Mostrar nombre del servicio en el listado de turnos",
+    "descripcion": "Actualmente el turno muestra el identificador del servicio y se propone mostrar el nombre.",
+    "prioridad": "media",
+    "estado": "resuelto"
+  }
+]
